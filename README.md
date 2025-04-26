@@ -17,6 +17,4 @@ Vamsi Krishna.N.P
 
 | Level     | Incomplete Tasks        |
 |-----------|-------------------------|
-| Level_1   | Task_3                  |
-| Level_2   | Task_2, Task_4          |
-| Level_3   | None                    |
+|     -     |            -            |
