@@ -1,10 +1,8 @@
 # Training
 **Your Name:**  
-_Your name here_
-
+Vamsi Krishna.N.P
 **Register Number:**  
-_Your register number here_
-
+713322AD111
 ---
 
 ## Phase - 1
